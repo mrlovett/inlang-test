@@ -1,2 +1,2 @@
 # inlang-test
-Testing inlang
+Testing inlang (https://inlang.com)
